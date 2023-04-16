@@ -1,7 +1,12 @@
 # Rock-Paper-Scissors-Compter-Vision-App
-JanKen is a simple interactive Rock-Paper-Scissors game demo built with Media Pipe and OpenCV where the player plays Rock-Paper-Scissors on real time against the computer as his opponent 
-Here is a demo of the game (supposing that the computer forms scissors):
+Welcome to Janken, the Rock-Paper-Scissors-Computer-Vision-App!
+
+This is an interactive demo game built with Media Pipe and OpenCV that allows the player to play Rock-Paper-Scissors in real-time against the computer. The computer serves as the opponent, creating a fun and engaging experience for the player.
+
+To get a better idea of the game, you can check out this demo where the computer forms scissors.
 
 ![alt text](https://github.com/SalahMouslih/Rock-Paper-Scissors-Compter-Vision-App/blob/main/Screenshot%202021-10-11%20at%2000.03.50.png?raw=true)
 
 ![alt text](https://github.com/SalahMouslih/Rock-Paper-Scissors-Compter-Vision-App/blob/main/Screenshot%202021-10-11%20at%2000.04.01.png?raw=true)
+
+We hope you enjoy playing the game!
